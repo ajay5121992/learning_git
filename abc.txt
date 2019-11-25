@@ -1,1 +1,2 @@
 Demo of git
+now changing the file
